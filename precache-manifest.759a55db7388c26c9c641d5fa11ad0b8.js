@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad0d2a745777ec11377f8bb06dcf5fa7",
+    "revision": "a2a3450364ad291ff4ced1249514e7e4",
     "url": "/react-events/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-events/static/css/2.f785af3a.chunk.css"
   },
   {
-    "revision": "8f0f25e8e6d289782303",
+    "revision": "935c85a8d123b431c2f2",
     "url": "/react-events/static/css/main.305b7271.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-events/static/js/2.7b802fac.chunk.js.LICENSE"
   },
   {
-    "revision": "8f0f25e8e6d289782303",
-    "url": "/react-events/static/js/main.fdef4b3a.chunk.js"
+    "revision": "935c85a8d123b431c2f2",
+    "url": "/react-events/static/js/main.588c8e9b.chunk.js"
   },
   {
     "revision": "9567cf26a400052cbf4c",
